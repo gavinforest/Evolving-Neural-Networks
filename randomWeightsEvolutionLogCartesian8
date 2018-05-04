@@ -1,0 +1,222 @@
+testing stdout
+gen	nevals	mean   	min    	max    	stdDev 
+0  	30    	18.2077	1.75804	265.163	47.8552
+1  	23    	30.8064	4.04674	265.163	41.0378
+2  	26    	88.3787	16     	265.163	90.1776
+3  	23    	179.922	41.643 	265.163	99.5851
+4  	24    	255.955	81     	265.163	40.1375
+5  	23    	265.163	265.163	265.163	0      
+6  	27    	266.2  	265.163	273.455	2.74208
+7  	26    	295.593	265.163	1316.52	163.53 
+8  	25    	326.12 	265.163	1316.52	227.228
+9  	24    	433.401	273.455	1350.24	373.392
+10 	25    	749.101	273.455	1350.24	497.446
+11 	24    	1185.43	282.876	1350.24	345.832
+12 	22    	1336.75	1316.52	1350.24	16.5212
+13 	29    	2138.76	1350.24	6607.06	1877.06
+14 	21    	3452.97	1350.24	6607.06	2575.31
+15 	22    	5818.54	1350.24	6607.06	1877.06
+16 	25    	6617.95	6607.06	6694.16	28.8057
+17 	25    	6646.39	6607.06	6717.26	46.1871
+18 	22    	6685.76	6607.06	6717.26	38.7965
+19 	25    	6707.44	6694.16	6717.26	11.4161
+20 	23    	6716.68	6694.16	6717.26	3.60547
+21 	22    	6717.26	6717.26	6717.26	0      
+22 	26    	6718.33	6717.26	6723.4 	2.33614
+23 	23    	6720.48	6717.26	6723.4 	3.07028
+24 	29    	6723.4 	6723.4 	6723.4 	9.09495e-13
+25 	20    	6723.4 	6723.4 	6723.4 	9.09495e-13
+26 	20    	6723.4 	6723.4 	6723.4 	9.09495e-13
+27 	24    	6723.4 	6723.4 	6723.4 	9.09495e-13
+28 	25    	6723.4 	6723.4 	6723.4 	9.09495e-13
+29 	25    	6723.4 	6723.4 	6723.4 	9.09495e-13
+30 	22    	6723.4 	6723.4 	6723.4 	9.09495e-13
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.69820404053e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.50746917725e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.3882598877e-05
+looped
+[11.07755125]
+biased and relued: [2.58855149e-03 2.63828111e+00 6.46365680e+00]
+biased and relued: [ 0.02238086  3.46072163 12.78345582]
+biased and relued: [ 0.05820946  3.02027152 27.02523565]
+biased and relued: [ 0.09811729  2.84735938 51.02695168]
+[11.07755125]
+[0. 1.]
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.10215759277e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.00679016113e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.91142272949e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.79221343994e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.91142272949e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.6968460083e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.81605529785e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.00679016113e-05
+looped
+biased and relued: [0.03788262 0.09585415 0.02439979 0.09215798 0.12194371]
+biased and relued: [0.05018477 0.01925443 0.02996998 0.01694431 0.04029673]
+biased and relued: [0.02437433 0.02894612 0.00644518 0.02968989 0.02781376]
+biased and relued: [0.01048211 0.04966296 0.00925985 0.00694471 0.00405271]
+biased and relued: [0.01647359 0.02839568 0.02562069 0.0106546  0.01987818]
+biased and relued: [0.02482932 0.02674755 0.04746914 0.01399793 0.04970094]
+biased and relued: [0.03562957 0.04034236 0.05111743 0.014487   0.03397987]
+biased and relued: [0.02395063 0.00489093 0.00624751 0.04905743 0.04908574]
+biased and relued: [0.01332257 0.02506043 0.04155835 0.02239173 0.02110672]
+[0.24245775 0.86708425 0.90168981 0.22395869]
+[array([0.03788262, 0.09585415, 0.02439979, 0.09215798, 0.12194371],
+      dtype=float32), array([0.05018477, 0.01925443, 0.02996998, 0.01694431, 0.04029673],
+      dtype=float32), array([0.02437433, 0.02894612, 0.00644518, 0.02968989, 0.02781376],
+      dtype=float32), array([0.01048211, 0.04966296, 0.00925985, 0.00694471, 0.00405271],
+      dtype=float32), array([0.01647359, 0.02839568, 0.02562069, 0.0106546 , 0.01987818],
+      dtype=float32), array([0.02482932, 0.02674755, 0.04746914, 0.01399793, 0.04970094],
+      dtype=float32), array([0.03562957, 0.04034236, 0.05111743, 0.014487  , 0.03397987],
+      dtype=float32), array([0.02395063, 0.00489093, 0.00624751, 0.04905742, 0.04908574],
+      dtype=float32), array([0.01332257, 0.02506043, 0.04155836, 0.02239173, 0.02110672],
+      dtype=float32)]
+[0.0000000e+00 0.0000000e+00 9.6231030e-11 7.0042729e-11 2.8108488e-10
+ 1.9246206e-10 4.2162732e-10 5.1603610e-10]
+[4.4587164e-12 4.4587164e-12 2.0547469e-10 1.2640664e-10 3.2176959e-11
+ 4.5906251e-11 1.9755153e-10 1.9755153e-10 2.6140076e-10 2.1238171e-10]
+[8.8863243e-11 8.8863243e-11 6.1693761e-10 6.1693761e-10 9.6027819e-10
+ 7.5337692e-10 4.2594131e-10 2.5594274e-10 1.2911612e-09 5.6693639e-10]
+[1.0868728e-09 1.0868728e-09 1.1179289e-08 1.1179289e-08 2.4891944e-09
+ 1.4522440e-09 6.6898016e-09 6.7707409e-09 1.0741962e-08 4.1739798e-09]
+[9.0798578e-09 9.0798578e-09 3.9056354e-07 3.9056354e-07 7.2822083e-08
+ 3.1079804e-08 2.3309264e-08 1.9941909e-08 3.1871643e-08 3.0856491e-08]
+[3.7909882e-07 3.7909882e-07 3.5720793e-06 3.5720793e-06 3.2229946e-06
+ 1.6625257e-06 6.9137684e-07 9.1872317e-07 2.5006070e-06 1.6356469e-06]
+[1.2794790e-05 1.2794790e-05 3.9955961e-05 3.9955961e-05 7.0910224e-05
+ 3.9567618e-05 1.1667889e-05 2.1494789e-05 7.4244126e-05 4.9917744e-05]
+[0.00048113 0.00048113 0.00107152 0.00107152 0.00135772 0.00095182
+ 0.00026975 0.00026768 0.00090253 0.00086129]
+[0.01407936 0.01407936 0.00231293 0.00231293 0.00295446 0.00078941
+ 0.00619868 0.01692108 0.02321277 0.02379968]
+[0.0000000e+00 0.0000000e+00 9.6231030e-11 7.0042729e-11 2.8108488e-10
+ 1.9246206e-10 4.2162732e-10 5.1603610e-10]
+[4.4587164e-12 4.4587164e-12 2.0547469e-10 1.2640664e-10 3.2176959e-11
+ 4.5906251e-11 1.9755153e-10 1.9755153e-10 2.6140076e-10 2.1238171e-10]
+[8.8863243e-11 8.8863243e-11 6.1693761e-10 6.1693761e-10 9.6027819e-10
+ 7.5337692e-10 4.2594131e-10 2.5594274e-10 1.2911612e-09 5.6693639e-10]
+[1.0868728e-09 1.0868728e-09 1.1179289e-08 1.1179289e-08 2.4891944e-09
+ 1.4522440e-09 6.6898016e-09 6.7707409e-09 1.0741962e-08 4.1739798e-09]
+[9.0798578e-09 9.0798578e-09 3.9056354e-07 3.9056354e-07 7.2822083e-08
+ 3.1079804e-08 2.3309264e-08 1.9941909e-08 3.1871643e-08 3.0856491e-08]
+[3.7909882e-07 3.7909882e-07 3.5720793e-06 3.5720793e-06 3.2229946e-06
+ 1.6625257e-06 6.9137684e-07 9.1872317e-07 2.5006070e-06 1.6356469e-06]
+[1.2794790e-05 1.2794790e-05 3.9955961e-05 3.9955961e-05 7.0910224e-05
+ 3.9567618e-05 1.1667889e-05 2.1494789e-05 7.4244126e-05 4.9917744e-05]
+[0.00048113 0.00048113 0.00107152 0.00107152 0.00135772 0.00095182
+ 0.00026975 0.00026768 0.00090253 0.00086129]
+[0.01407936 0.01407936 0.00231293 0.00231293 0.00295446 0.00078941
+ 0.00619868 0.01692108 0.02321277 0.02379968]
+memory stats: svmem(total=15771402240, available=13347573760, percent=15.4, used=2075189248, free=9007943680, active=4358930432, inactive=1994997760, buffers=179294208, cached=4508975104, shared=8450048, slab=274010112)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 82
+weights length: 64288
+final layer output length: 7400
+average number of connections per neuron by layer: [8.687567567567568]
+spacial dimension: 9
+branching by dimension: [8, 6, 8, 3, 1, 8, 4, 10, 1]
+cartesian dimensions: [0, 5]
+beginning partial classification
+partial classification took:  135.582780123
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1536/10000 [===>..........................] - ETA: 0s
+ 3072/10000 [========>.....................] - ETA: 0s
+ 4608/10000 [============>.................] - ETA: 0s
+ 6144/10000 [=================>............] - ETA: 0s
+ 7680/10000 [======================>.......] - ETA: 0s
+ 9216/10000 [==========================>...] - ETA: 0s
+10000/10000 [==============================] - 0s 33us/step
+keras building and training took: 62.4663250446
+linear model training accuracy,testing accuracy: 0.90745  ,  0.9179
+starting to train actual network
+starting epoch...
+epoch 1 -- testing accuracy : 9.8 duration: 155.267782927s
+starting epoch...
+epoch 2 -- testing accuracy : 9.8 duration: 155.28541708s
+starting epoch...
+epoch 3 -- testing accuracy : 9.8 duration: 155.272195101s
+starting epoch...
+epoch 4 -- testing accuracy : 9.8 duration: 155.180658817s
+starting epoch...
+epoch 5 -- testing accuracy : 9.8 duration: 155.220875978s
+actual network training took: 776.244051933
+actual network accuracy after 5 epochs : 9.8
+memory stats: svmem(total=15771402240, available=11160694784, percent=29.2, used=4262064128, free=6800236544, active=6543495168, inactive=2014756864, buffers=179679232, cached=4529422336, shared=8450048, slab=274444288)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 90
+weights length: 70560
+final layer output length: 9760
+average number of connections per neuron by layer: [7.229508196721311]
+spacial dimension: 9
+branching by dimension: [1, 1, 8, 7, 5, 9, 7, 9, 4]
+cartesian dimensions: [2, 7]
+beginning partial classification
+partial classification took:  68.2937870026
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1344/10000 [===>..........................] - ETA: 0s
+ 2688/10000 [=======>......................] - ETA: 0s
+ 4032/10000 [===========>..................] - ETA: 0s
+ 5376/10000 [===============>..............] - ETA: 0s
+ 6720/10000 [===================>..........] - ETA: 0s
+ 8064/10000 [=======================>......] - ETA: 0s
+ 9408/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 38us/step
+keras building and training took: 67.0360891819
+linear model training accuracy,testing accuracy: 0.9180833333333334  ,  0.9203
+starting to train actual network
+starting epoch...
+epoch 1 -- testing accuracy : 9.8 duration: 93.5470421314s
+starting epoch...
+epoch 2 -- testing accuracy : 9.8 duration: 93.5049021244s
+starting epoch...

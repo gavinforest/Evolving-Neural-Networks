@@ -1,0 +1,881 @@
+testing stdout
+gen	nevals	mean   	min    	max	stdDev
+0  	30    	19.0362	1.85924	256	52.472
+1  	24    	57.5009	2      	256	75.6365
+2  	28    	124.888	4.47011	256	89.6885
+3  	23    	230.272	162.443	256	41.7744
+4  	26    	256    	256    	256	0      
+5  	22    	256    	256    	256	0      
+6  	22    	256    	256    	256	0      
+7  	22    	256    	256    	256	0      
+8  	23    	256    	256    	256	0      
+9  	26    	256    	256    	256	0      
+10 	26    	256    	256    	256	0      
+11 	24    	256    	256    	256	0      
+12 	25    	256    	256    	256	0      
+13 	25    	256    	256    	256	0      
+14 	26    	256    	256    	256	0      
+15 	26    	256    	256    	256	0      
+16 	25    	256    	256    	256	0      
+17 	24    	256    	256    	256	0      
+18 	25    	256    	256    	256	0      
+19 	26    	256    	256    	256	0      
+20 	25    	256    	256    	256	0      
+21 	26    	256    	256    	256	0      
+22 	26    	256    	256    	256	0      
+23 	25    	256    	256    	256	0      
+24 	26    	256    	256    	256	0      
+25 	22    	256    	256    	256	0      
+26 	25    	256    	256    	256	0      
+27 	26    	256    	256    	256	0      
+28 	22    	256    	256    	256	0      
+29 	27    	256    	256    	256	0      
+30 	25    	256    	256    	256	0      
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.91278076172e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.48362731934e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.50746917725e-05
+looped
+[16.06339677]
+biased and relued: [ 0.04522058  4.2845871  14.02066413]
+biased and relued: [ 0.10822599  3.2438371  44.46345941]
+biased and relued: [  0.17403181   5.06591337 124.54029889]
+biased and relued: [  0.21828047   3.63191304 211.60027473]
+[16.06339677]
+[0. 1.]
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.60283660889e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.10215759277e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.29289245605e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.29289245605e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.10215759277e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.00679016113e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.79221343994e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.98294830322e-05
+looped
+biased and relued: [0.04662636 0.07318118 0.02721865 0.09212019 0.12165461]
+biased and relued: [0.00597009 0.05547435 0.02579459 0.0119333  0.0175239 ]
+biased and relued: [0.00392162 0.047      0.03814024 0.03853344 0.0504302 ]
+biased and relued: [0.0463566  0.02497869 0.01849857 0.03729081 0.02957181]
+biased and relued: [0.03166063 0.00427093 0.05011213 0.0103038  0.04837155]
+biased and relued: [0.00553897 0.01755356 0.0238837  0.04261595 0.03041914]
+biased and relued: [0.03073242 0.03882614 0.0256351  0.01220464 0.03245699]
+biased and relued: [0.02907454 0.00826093 0.00840713 0.02988537 0.02730458]
+biased and relued: [0.00272751 0.03774228 0.01835948 0.04791965 0.04669676]
+[0.83073154 0.89084966 0.96060947 1.02050639]
+[array([0.04662636, 0.07318118, 0.02721865, 0.09212019, 0.12165461],
+      dtype=float32), array([0.00597009, 0.05547435, 0.02579459, 0.0119333 , 0.0175239 ],
+      dtype=float32), array([0.00392161, 0.047     , 0.03814024, 0.03853344, 0.0504302 ],
+      dtype=float32), array([0.0463566 , 0.02497869, 0.01849857, 0.03729081, 0.02957181],
+      dtype=float32), array([0.03166064, 0.00427093, 0.05011212, 0.0103038 , 0.04837155],
+      dtype=float32), array([0.00553897, 0.01755356, 0.0238837 , 0.04261595, 0.03041914],
+      dtype=float32), array([0.03073242, 0.03882614, 0.0256351 , 0.01220464, 0.03245699],
+      dtype=float32), array([0.02907454, 0.00826093, 0.00840713, 0.02988537, 0.02730458],
+      dtype=float32), array([0.00272751, 0.03774228, 0.01835948, 0.04791965, 0.04669676],
+      dtype=float32)]
+[0.0000000e+00 0.0000000e+00 2.0452588e-11 4.7948225e-11 4.4694012e-11
+ 4.0905175e-11 6.7041019e-11 4.2166381e-11]
+[2.9972236e-10 2.9972236e-10 2.5482498e-11 4.6572062e-11 1.7321783e-11
+ 1.4861872e-11 3.2077271e-11 3.2077271e-11 4.2361482e-11 4.0496644e-11]
+[1.22134081e-09 1.22134081e-09 2.74429007e-10 2.74429007e-10
+ 1.27604607e-10 2.72942224e-10 1.26270716e-10 1.07027366e-10
+ 8.66898983e-11 9.43799622e-11]
+[1.6047995e-08 1.6047995e-08 5.3676894e-09 5.3676894e-09 4.3558508e-09
+ 7.8731359e-09 7.9543012e-09 6.6925487e-09 5.7594396e-09 4.2790140e-09]
+[2.3400244e-06 2.3400244e-06 4.9732883e-08 4.9732883e-08 3.6830869e-08
+ 5.7408968e-08 1.1572935e-07 1.4963481e-07 5.8877834e-08 7.8918475e-08]
+[2.1331165e-05 2.1331165e-05 4.3319861e-07 4.3319861e-07 5.0828498e-06
+ 2.9751127e-06 6.1172778e-07 4.8941405e-07 4.9063042e-06 2.9392772e-06]
+[5.15621723e-05 5.15621723e-05 2.61034565e-05 2.61034565e-05
+ 3.55168486e-05 2.27183937e-05 4.05366845e-05 1.01262565e-04
+ 4.52355416e-05 2.11758088e-05]
+[0.0033566  0.0033566  0.00076932 0.00076932 0.00050795 0.00062795
+ 0.00029896 0.00069728 0.00064312 0.00020883]
+[0.03954682 0.03954682 0.00363284 0.00363284 0.00369713 0.00735454
+ 0.02614364 0.03994904 0.01200751 0.01020534]
+[0.0000000e+00 0.0000000e+00 2.0452588e-11 4.7948225e-11 4.4694012e-11
+ 4.0905175e-11 6.7041019e-11 4.2166381e-11]
+[2.9972236e-10 2.9972236e-10 2.5482498e-11 4.6572062e-11 1.7321783e-11
+ 1.4861872e-11 3.2077271e-11 3.2077271e-11 4.2361482e-11 4.0496644e-11]
+[1.22134081e-09 1.22134081e-09 2.74429007e-10 2.74429007e-10
+ 1.27604607e-10 2.72942224e-10 1.26270716e-10 1.07027366e-10
+ 8.66898983e-11 9.43799622e-11]
+[1.6047995e-08 1.6047995e-08 5.3676894e-09 5.3676894e-09 4.3558508e-09
+ 7.8731359e-09 7.9543012e-09 6.6925487e-09 5.7594396e-09 4.2790140e-09]
+[2.3400244e-06 2.3400244e-06 4.9732883e-08 4.9732883e-08 3.6830869e-08
+ 5.7408968e-08 1.1572935e-07 1.4963481e-07 5.8877834e-08 7.8918475e-08]
+[2.1331165e-05 2.1331165e-05 4.3319861e-07 4.3319861e-07 5.0828498e-06
+ 2.9751127e-06 6.1172778e-07 4.8941405e-07 4.9063042e-06 2.9392772e-06]
+[5.15621723e-05 5.15621723e-05 2.61034565e-05 2.61034565e-05
+ 3.55168486e-05 2.27183937e-05 4.05366845e-05 1.01262565e-04
+ 4.52355416e-05 2.11758088e-05]
+[0.0033566  0.0033566  0.00076932 0.00076932 0.00050795 0.00062795
+ 0.00029896 0.00069728 0.00064312 0.00020883]
+[0.03954682 0.03954682 0.00363284 0.00363284 0.00369713 0.00735454
+ 0.02614364 0.03994904 0.01200751 0.01020534]
+memory stats: svmem(total=15771402240, available=13354168320, percent=15.3, used=2068594688, free=9211748352, active=4350238720, inactive=1803194368, buffers=176697344, cached=4314361856, shared=8450048, slab=271708160)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 33
+weights length: 25872
+final layer output length: 4576
+average number of connections per neuron by layer: [5.653846153846154]
+spacial dimension: 6
+branching by dimension: [2, 7, 7, 10, 4, 3]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  41.6593739986
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1984/10000 [====>.........................] - ETA: 0s
+ 3904/10000 [==========>...................] - ETA: 0s
+ 5760/10000 [================>.............] - ETA: 0s
+ 7680/10000 [======================>.......] - ETA: 0s
+ 9664/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 26us/step
+keras building and training took: 55.2933609486
+linear model training accuracy,testing accuracy: 0.90705  ,  0.9137
+memory stats: svmem(total=15771402240, available=11996786688, percent=23.9, used=3425959936, free=7848579072, active=5702623232, inactive=1809907712, buffers=176848896, cached=4320014336, shared=8450048, slab=271900672)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 48
+weights length: 37632
+final layer output length: 7600
+average number of connections per neuron by layer: [4.951578947368421]
+spacial dimension: 8
+branching by dimension: [9, 4, 5, 10, 8, 2, 4, 6]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  72.406443119
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1536/10000 [===>..........................] - ETA: 0s
+ 3104/10000 [========>.....................] - ETA: 0s
+ 4640/10000 [============>.................] - ETA: 0s
+ 6176/10000 [=================>............] - ETA: 0s
+ 7680/10000 [======================>.......] - ETA: 0s
+ 9184/10000 [==========================>...] - ETA: 0s
+10000/10000 [==============================] - 0s 33us/step
+keras building and training took: 60.9455280304
+linear model training accuracy,testing accuracy: 0.9113333333333333  ,  0.9157
+memory stats: svmem(total=15771402240, available=11012304896, percent=30.2, used=4410429440, free=6852231168, active=6686244864, inactive=1821032448, buffers=176922624, cached=4331819008, shared=8450048, slab=271917056)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 60
+weights length: 47040
+final layer output length: 11760
+average number of connections per neuron by layer: [4.0]
+spacial dimension: 8
+branching by dimension: [4, 2, 8, 5, 6, 2, 8, 10]
+cartesian dimensions: [2, 3]
+beginning partial classification
+partial classification took:  91.1659748554
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1312/10000 [==>...........................] - ETA: 0s
+ 2592/10000 [======>.......................] - ETA: 0s
+ 3840/10000 [==========>...................] - ETA: 0s
+ 5088/10000 [==============>...............] - ETA: 0s
+ 6336/10000 [==================>...........] - ETA: 0s
+ 7584/10000 [=====================>........] - ETA: 0s
+ 8832/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 40us/step
+keras building and training took: 69.6766598225
+linear model training accuracy,testing accuracy: 0.9260833333333334  ,  0.9233
+memory stats: svmem(total=15771402240, available=9744257024, percent=38.2, used=5678493696, free=5570916352, active=7952343040, inactive=1834160128, buffers=177012736, cached=4344979456, shared=8450048, slab=271949824)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 27
+weights length: 21168
+final layer output length: 5880
+average number of connections per neuron by layer: [3.6]
+spacial dimension: 6
+branching by dimension: [7, 1, 7, 8, 5, 2]
+cartesian dimensions: [0, 5]
+beginning partial classification
+partial classification took:  39.9811220169
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1728/10000 [====>.........................] - ETA: 0s
+ 3424/10000 [=========>....................] - ETA: 0s
+ 5120/10000 [==============>...............] - ETA: 0s
+ 6816/10000 [===================>..........] - ETA: 0s
+ 8512/10000 [========================>.....] - ETA: 0s
+10000/10000 [==============================] - 0s 30us/step
+keras building and training took: 54.5062460899
+linear model training accuracy,testing accuracy: 0.9236333333333333  ,  0.9225
+memory stats: svmem(total=15771402240, available=9745092608, percent=38.2, used=5677662208, free=5567172608, active=7951646720, inactive=1838682112, buffers=177061888, cached=4349505536, shared=8450048, slab=271974400)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 10
+weights length: 7840
+final layer output length: 1224
+average number of connections per neuron by layer: [6.405228758169935]
+spacial dimension: 2
+branching by dimension: [3, 7]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  22.6007189751
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2912/10000 [=======>......................] - ETA: 0s
+ 5792/10000 [================>.............] - ETA: 0s
+ 8704/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 17us/step
+keras building and training took: 39.4268751144
+linear model training accuracy,testing accuracy: 0.84015  ,  0.8501
+memory stats: svmem(total=15771402240, available=11110051840, percent=29.6, used=4312690688, free=6930903040, active=6589165568, inactive=1839882240, buffers=177102848, cached=4350705664, shared=8450048, slab=271966208)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 38
+weights length: 29792
+final layer output length: 5808
+average number of connections per neuron by layer: [5.129476584022038]
+spacial dimension: 9
+branching by dimension: [1, 3, 6, 1, 4, 9, 2, 8, 4]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  50.7510960102
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1760/10000 [====>.........................] - ETA: 0s
+ 3488/10000 [=========>....................] - ETA: 0s
+ 5216/10000 [==============>...............] - ETA: 0s
+ 6944/10000 [===================>..........] - ETA: 0s
+ 8672/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 29us/step
+keras building and training took: 54.4609601498
+linear model training accuracy,testing accuracy: 0.90995  ,  0.9158
+memory stats: svmem(total=15771402240, available=11110887424, percent=29.6, used=4311859200, free=6926823424, active=6589198336, inactive=1844699136, buffers=177184768, cached=4355534848, shared=8450048, slab=271982592)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 23
+weights length: 18032
+final layer output length: 4552
+average number of connections per neuron by layer: [3.961335676625659]
+spacial dimension: 5
+branching by dimension: [5, 5, 3, 3, 7]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  33.9388749599
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1920/10000 [====>.........................] - ETA: 0s
+ 3808/10000 [==========>...................] - ETA: 0s
+ 5728/10000 [================>.............] - ETA: 0s
+ 7616/10000 [=====================>........] - ETA: 0s
+ 9536/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 27us/step
+keras building and training took: 51.1340959072
+linear model training accuracy,testing accuracy: 0.8845833333333334  ,  0.8933
+memory stats: svmem(total=15771402240, available=11179253760, percent=29.1, used=4243472384, free=6992064512, active=6521274368, inactive=1847767040, buffers=177242112, cached=4358623232, shared=8450048, slab=272007168)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 34
+weights length: 26656
+final layer output length: 6752
+average number of connections per neuron by layer: [3.947867298578199]
+spacial dimension: 7
+branching by dimension: [8, 1, 4, 10, 5, 4, 2]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  51.9599680901
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1632/10000 [===>..........................] - ETA: 0s
+ 3232/10000 [========>.....................] - ETA: 0s
+ 4832/10000 [=============>................] - ETA: 0s
+ 6432/10000 [==================>...........] - ETA: 0s
+ 8032/10000 [=======================>......] - ETA: 0s
+ 9632/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 32us/step
+keras building and training took: 57.4101428986
+linear model training accuracy,testing accuracy: 0.9007166666666667  ,  0.9068
+memory stats: svmem(total=15771402240, available=11179429888, percent=29.1, used=4243316736, free=6987231232, active=6521622528, inactive=1852690432, buffers=177307648, cached=4363546624, shared=8450048, slab=272015360)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 33
+weights length: 25872
+final layer output length: 5864
+average number of connections per neuron by layer: [4.412005457025921]
+spacial dimension: 5
+branching by dimension: [3, 6, 8, 9, 7]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  44.1346430779
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1728/10000 [====>.........................] - ETA: 0s
+ 3424/10000 [=========>....................] - ETA: 0s
+ 5152/10000 [==============>...............] - ETA: 0s
+ 6848/10000 [===================>..........] - ETA: 0s
+ 8544/10000 [========================>.....] - ETA: 0s
+10000/10000 [==============================] - 0s 30us/step
+keras building and training took: 55.2386360168
+linear model training accuracy,testing accuracy: 0.90125  ,  0.907
+memory stats: svmem(total=15771402240, available=11179597824, percent=29.1, used=4243140608, free=6982000640, active=6521565184, inactive=1857970176, buffers=177418240, cached=4368842752, shared=8450048, slab=272039936)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 47
+weights length: 36848
+final layer output length: 8520
+average number of connections per neuron by layer: [4.324882629107981]
+spacial dimension: 8
+branching by dimension: [4, 2, 7, 9, 10, 2, 8, 5]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  77.2450540066
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1472/10000 [===>..........................] - ETA: 0s
+ 2880/10000 [=======>......................] - ETA: 0s
+ 4288/10000 [===========>..................] - ETA: 0s
+ 5664/10000 [===============>..............] - ETA: 0s
+ 7072/10000 [====================>.........] - ETA: 0s
+ 8448/10000 [========================>.....] - ETA: 0s
+ 9824/10000 [============================>.] - ETA: 0s
+10000/10000 [==============================] - 0s 36us/step
+keras building and training took: 62.7861719131
+linear model training accuracy,testing accuracy: 0.9100333333333334  ,  0.9145
+memory stats: svmem(total=15771402240, available=10730594304, percent=32.0, used=4692148224, free=6522560512, active=6968147968, inactive=1868255232, buffers=177512448, cached=4379181056, shared=8450048, slab=272035840)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 20
+weights length: 15680
+final layer output length: 1616
+average number of connections per neuron by layer: [9.702970297029703]
+spacial dimension: 2
+branching by dimension: [10, 10]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  23.7253251076
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2528/10000 [======>.......................] - ETA: 0s
+ 5056/10000 [==============>...............] - ETA: 0s
+ 7584/10000 [=====================>........] - ETA: 0s
+10000/10000 [==============================] - 0s 20us/step
+keras building and training took: 41.5820889473
+linear model training accuracy,testing accuracy: 0.8686  ,  0.8787
+memory stats: svmem(total=15771402240, available=10731614208, percent=32.0, used=4691144704, free=6521966592, active=6968242176, inactive=1869807616, buffers=177565696, cached=4380725248, shared=8450048, slab=271994880)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 72
+weights length: 56448
+final layer output length: 1989
+average number of connections per neuron by layer: [28.380090497737555]
+spacial dimension: 2
+branching by dimension: [9, 10]
+cartesian dimensions: [0, 1]
+beginning partial classification
+partial classification took:  52.3798019886
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2528/10000 [======>.......................] - ETA: 0s
+ 5024/10000 [==============>...............] - ETA: 0s
+ 7520/10000 [=====================>........] - ETA: 0s
+10000/10000 [==============================] - 0s 20us/step
+keras building and training took: 42.3042230606
+linear model training accuracy,testing accuracy: 0.4029333333333333  ,  0.396
+memory stats: svmem(total=15771402240, available=10732261376, percent=32.0, used=4690493440, free=6513442816, active=6968107008, inactive=1878900736, buffers=177627136, cached=4389838848, shared=8450048, slab=272007168)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 18
+weights length: 14112
+final layer output length: 3032
+average number of connections per neuron by layer: [4.654353562005277]
+spacial dimension: 3
+branching by dimension: [10, 5, 3]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  27.1936061382
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2240/10000 [=====>........................] - ETA: 0s
+ 4448/10000 [============>.................] - ETA: 0s
+ 6656/10000 [==================>...........] - ETA: 0s
+ 8864/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 23us/step
+keras building and training took: 45.9336140156
+linear model training accuracy,testing accuracy: 0.86195  ,  0.8738
+memory stats: svmem(total=15771402240, available=10731917312, percent=32.0, used=4690817024, free=6510759936, active=6968143872, inactive=1881186304, buffers=177684480, cached=4392140800, shared=8450048, slab=272023552)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 15
+weights length: 11760
+final layer output length: 1528
+average number of connections per neuron by layer: [7.696335078534031]
+spacial dimension: 2
+branching by dimension: [10, 5]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  24.806953907
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2688/10000 [=======>......................] - ETA: 0s
+ 5376/10000 [===============>..............] - ETA: 0s
+ 8064/10000 [=======================>......] - ETA: 0s
+10000/10000 [==============================] - 0s 19us/step
+keras building and training took: 41.6405808926
+linear model training accuracy,testing accuracy: 0.8523833333333334  ,  0.8628
+memory stats: svmem(total=15771402240, available=10732298240, percent=32.0, used=4690440192, free=6509109248, active=6968188928, inactive=1883172864, buffers=177725440, cached=4394127360, shared=8450048, slab=272023552)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 11
+weights length: 8624
+final layer output length: 1484
+average number of connections per neuron by layer: [5.811320754716981]
+spacial dimension: 2
+branching by dimension: [10, 1]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  23.4852731228
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2656/10000 [======>.......................] - ETA: 0s
+ 5312/10000 [==============>...............] - ETA: 0s
+ 7968/10000 [======================>.......] - ETA: 0s
+10000/10000 [==============================] - 0s 19us/step
+keras building and training took: 41.2159800529
+linear model training accuracy,testing accuracy: 0.8469  ,  0.8592
+memory stats: svmem(total=15771402240, available=10732265472, percent=32.0, used=4690444288, free=6507831296, active=6968283136, inactive=1884372992, buffers=177790976, cached=4395335680, shared=8450048, slab=272023552)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 42
+weights length: 32928
+final layer output length: 6200
+average number of connections per neuron by layer: [5.3109677419354835]
+spacial dimension: 7
+branching by dimension: [10, 6, 2, 9, 6, 8, 1]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  67.4012658596
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1664/10000 [===>..........................] - ETA: 0s
+ 3296/10000 [========>.....................] - ETA: 0s
+ 4960/10000 [=============>................] - ETA: 0s
+ 6592/10000 [==================>...........] - ETA: 0s
+ 8256/10000 [=======================>......] - ETA: 0s
+ 9888/10000 [============================>.] - ETA: 0s
+10000/10000 [==============================] - 0s 31us/step
+keras building and training took: 56.0004909039
+linear model training accuracy,testing accuracy: 0.9076166666666666  ,  0.9128
+memory stats: svmem(total=15771402240, available=10732326912, percent=32.0, used=4690370560, free=6497394688, active=6968332288, inactive=1894789120, buffers=177852416, cached=4405784576, shared=8450048, slab=272056320)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 9
+weights length: 7056
+final layer output length: 1326
+average number of connections per neuron by layer: [5.321266968325792]
+spacial dimension: 2
+branching by dimension: [10, 2]
+cartesian dimensions: [0, 1]
+beginning partial classification
+partial classification took:  23.656482935
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2752/10000 [=======>......................] - ETA: 0s
+ 5536/10000 [===============>..............] - ETA: 0s
+ 8320/10000 [=======================>......] - ETA: 0s
+10000/10000 [==============================] - 0s 18us/step
+keras building and training took: 40.2905139923
+linear model training accuracy,testing accuracy: 0.9218666666666666  ,  0.9232
+memory stats: svmem(total=15771402240, available=10731810816, percent=32.0, used=4690944000, free=6495490048, active=6968455168, inactive=1896054784, buffers=177913856, cached=4407054336, shared=8450048, slab=272056320)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 13
+weights length: 10192
+final layer output length: 1384
+average number of connections per neuron by layer: [7.364161849710983]
+spacial dimension: 2
+branching by dimension: [3, 10]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  23.4780919552
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2784/10000 [=======>......................] - ETA: 0s
+ 5536/10000 [===============>..............] - ETA: 0s
+ 8320/10000 [=======================>......] - ETA: 0s
+10000/10000 [==============================] - 0s 18us/step
+keras building and training took: 40.3289151192
+linear model training accuracy,testing accuracy: 0.85655  ,  0.8655
+memory stats: svmem(total=15771402240, available=10731352064, percent=32.0, used=4691402752, free=6493712384, active=6968496128, inactive=1897324544, buffers=177971200, cached=4408315904, shared=8450048, slab=272060416)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 68
+weights length: 53312
+final layer output length: 10120
+average number of connections per neuron by layer: [5.26798418972332]
+spacial dimension: 9
+branching by dimension: [10, 7, 10, 10, 10, 1, 7, 6, 7]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  122.279916048
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1344/10000 [===>..........................] - ETA: 0s
+ 2656/10000 [======>.......................] - ETA: 0s
+ 3968/10000 [==========>...................] - ETA: 0s
+ 5280/10000 [==============>...............] - ETA: 0s
+ 6592/10000 [==================>...........] - ETA: 0s
+ 7904/10000 [======================>.......] - ETA: 0s
+ 9216/10000 [==========================>...] - ETA: 0s
+10000/10000 [==============================] - 0s 39us/step
+keras building and training took: 66.4654209614
+linear model training accuracy,testing accuracy: 0.9158166666666666  ,  0.919
+memory stats: svmem(total=15771402240, available=10249568256, percent=35.0, used=5173178368, free=5992615936, active=7449673728, inactive=1916473344, buffers=178102272, cached=4427505664, shared=8450048, slab=272039936)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 43
+weights length: 33712
+final layer output length: 8728
+average number of connections per neuron by layer: [3.862511457378552]
+spacial dimension: 9
+branching by dimension: [1, 5, 3, 2, 8, 4, 8, 8, 4]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  73.070002079
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1408/10000 [===>..........................] - ETA: 0s
+ 2784/10000 [=======>......................] - ETA: 0s
+ 4160/10000 [===========>..................] - ETA: 0s
+ 5536/10000 [===============>..............] - ETA: 0s
+ 6944/10000 [===================>..........] - ETA: 0s
+ 8352/10000 [========================>.....] - ETA: 0s
+ 9728/10000 [============================>.] - ETA: 0s
+10000/10000 [==============================] - 0s 37us/step
+keras building and training took: 64.0792729855
+linear model training accuracy,testing accuracy: 0.9084333333333333  ,  0.9134
+memory stats: svmem(total=15771402240, available=10249629696, percent=35.0, used=5173121024, free=5982416896, active=7449710592, inactive=1926610944, buffers=178171904, cached=4437692416, shared=8450048, slab=272080896)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 17
+weights length: 13328
+final layer output length: 3024
+average number of connections per neuron by layer: [4.407407407407407]
+spacial dimension: 3
+branching by dimension: [8, 3, 6]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  25.8999750614
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2208/10000 [=====>........................] - ETA: 0s
+ 4384/10000 [============>.................] - ETA: 0s
+ 6592/10000 [==================>...........] - ETA: 0s
+ 8800/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 23us/step
+keras building and training took: 45.9658739567
+linear model training accuracy,testing accuracy: 0.8699666666666667  ,  0.8797
+memory stats: svmem(total=15771402240, available=10249895936, percent=35.0, used=5172838400, free=5980622848, active=7449747456, inactive=1928634368, buffers=178225152, cached=4439715840, shared=8450048, slab=272097280)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 23
+weights length: 18032
+final layer output length: 5128
+average number of connections per neuron by layer: [3.516380655226209]
+spacial dimension: 6
+branching by dimension: [3, 1, 6, 3, 1, 9]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  34.4386899471
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1792/10000 [====>.........................] - ETA: 0s
+ 3584/10000 [=========>....................] - ETA: 0s
+ 5376/10000 [===============>..............] - ETA: 0s
+ 7168/10000 [====================>.........] - ETA: 0s
+ 8960/10000 [=========================>....] - ETA: 0s
+10000/10000 [==============================] - 0s 28us/step
+keras building and training took: 53.6988730431
+linear model training accuracy,testing accuracy: 0.8941166666666667  ,  0.9027
+memory stats: svmem(total=15771402240, available=10249768960, percent=35.0, used=5172957184, free=5977321472, active=7449759744, inactive=1931747328, buffers=178290688, cached=4442832896, shared=8450048, slab=272097280)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 24
+weights length: 18816
+final layer output length: 4184
+average number of connections per neuron by layer: [4.497131931166348]
+spacial dimension: 5
+branching by dimension: [1, 6, 5, 6, 6]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  34.0125210285
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1952/10000 [====>.........................] - ETA: 0s
+ 3872/10000 [==========>...................] - ETA: 0s
+ 5792/10000 [================>.............] - ETA: 0s
+ 7712/10000 [======================>.......] - ETA: 0s
+ 9632/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 26us/step
+keras building and training took: 50.9258267879
+linear model training accuracy,testing accuracy: 0.89755  ,  0.9054
+memory stats: svmem(total=15771402240, available=10250145792, percent=35.0, used=5172609024, free=5974122496, active=7449890816, inactive=1935204352, buffers=178376704, cached=4446294016, shared=8450048, slab=272121856)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 34
+weights length: 26656
+final layer output length: 3592
+average number of connections per neuron by layer: [7.420935412026726]
+spacial dimension: 5
+branching by dimension: [10, 6, 6, 9, 3]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  44.2416379452
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 2080/10000 [=====>........................] - ETA: 0s
+ 4128/10000 [===========>..................] - ETA: 0s
+ 6176/10000 [=================>............] - ETA: 0s
+ 8224/10000 [=======================>......] - ETA: 0s
+10000/10000 [==============================] - 0s 25us/step
+keras building and training took: 48.0398020744
+linear model training accuracy,testing accuracy: 0.90305  ,  0.9099
+memory stats: svmem(total=15771402240, available=10250166272, percent=35.0, used=5172572160, free=5969338368, active=7449952256, inactive=1939947520, buffers=178429952, cached=4451061760, shared=8450048, slab=272080896)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 50
+weights length: 39200
+final layer output length: 6840
+average number of connections per neuron by layer: [5.730994152046784]
+spacial dimension: 10
+branching by dimension: [2, 1, 4, 6, 4, 7, 8, 8, 2, 8]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  63.8739280701
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1600/10000 [===>..........................] - ETA: 0s
+ 3200/10000 [========>.....................] - ETA: 0s
+ 4768/10000 [=============>................] - ETA: 0s
+ 6368/10000 [==================>...........] - ETA: 0s
+ 7968/10000 [======================>.......] - ETA: 0s
+ 9536/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 32us/step
+keras building and training took: 58.4855771065
+linear model training accuracy,testing accuracy: 0.91585  ,  0.9186
+memory stats: svmem(total=15771402240, available=10249883648, percent=35.0, used=5172846592, free=5959798784, active=7450284032, inactive=1948971008, buffers=178515968, cached=4460240896, shared=8450048, slab=272244736)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 47
+weights length: 36848
+final layer output length: 7016
+average number of connections per neuron by layer: [5.2519954389965795]
+spacial dimension: 7
+branching by dimension: [3, 10, 5, 10, 6, 6, 7]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  73.668462038
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1600/10000 [===>..........................] - ETA: 0s
+ 3168/10000 [========>.....................] - ETA: 0s
+ 4736/10000 [=============>................] - ETA: 0s
+ 6304/10000 [=================>............] - ETA: 0s
+ 7872/10000 [======================>.......] - ETA: 0s
+ 9440/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 32us/step
+keras building and training took: 58.4725899696
+linear model training accuracy,testing accuracy: 0.9099666666666667  ,  0.9151
+memory stats: svmem(total=15771402240, available=10246135808, percent=35.0, used=5176619008, free=5943742464, active=7452467200, inactive=1960488960, buffers=178913280, cached=4472127488, shared=8450048, slab=272519168)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 61
+weights length: 47824
+final layer output length: 9344
+average number of connections per neuron by layer: [5.118150684931507]
+spacial dimension: 10
+branching by dimension: [9, 1, 3, 10, 9, 10, 10, 2, 6, 1]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  82.4556980133
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1344/10000 [===>..........................] - ETA: 0s
+ 2688/10000 [=======>......................] - ETA: 0s
+ 4000/10000 [===========>..................] - ETA: 0s
+ 5344/10000 [===============>..............] - ETA: 0s
+ 6688/10000 [===================>..........] - ETA: 0s
+ 8032/10000 [=======================>......] - ETA: 0s
+ 9376/10000 [===========================>..] - ETA: 0s
+10000/10000 [==============================] - 0s 38us/step
+keras building and training took: 65.2332751751
+linear model training accuracy,testing accuracy: 0.9170166666666667  ,  0.9186
+memory stats: svmem(total=15771402240, available=10245988352, percent=35.0, used=5176700928, free=5927284736, active=7453306880, inactive=1976320000, buffers=179011584, cached=4488404992, shared=8450048, slab=273022976)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 100
+weights length: 78400
+final layer output length: 5856
+average number of connections per neuron by layer: [13.387978142076502]
+spacial dimension: 5
+branching by dimension: [9, 10, 11, 8, 2]
+cartesian dimensions: [0, 2]
+beginning partial classification
+partial classification took:  148.232038021
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1696/10000 [====>.........................] - ETA: 0s
+ 3392/10000 [=========>....................] - ETA: 0s
+ 5088/10000 [==============>...............] - ETA: 0s
+ 6784/10000 [===================>..........] - ETA: 0s
+ 8480/10000 [========================>.....] - ETA: 0s
+10000/10000 [==============================] - 0s 30us/step
+keras building and training took: 55.6080751419
+linear model training accuracy,testing accuracy: 0.8156666666666667  ,  0.8318
+memory stats: svmem(total=15771402240, available=10244472832, percent=35.0, used=5178281984, free=5904900096, active=7454928896, inactive=1996505088, buffers=179126272, cached=4509093888, shared=8450048, slab=273592320)
+evaluating
+running initial dictSingleGenConsolidate

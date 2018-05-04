@@ -1,0 +1,192 @@
+testing stdout
+gen	nevals	mean   	min    	max    	stdDev 
+0  	30    	6.92783	1.20667	30.5488	6.46857
+1  	23    	10.6495	2.86352	30.5488	7.75048
+2  	22    	20.3645	6.96581	30.5488	9.1927 
+3  	26    	29.0939	16     	30.5488	4.36463
+4  	24    	31.0493	30.5488	40.5586	2.1816 
+5  	19    	32.5507	30.5488	40.5586	4.00394
+6  	24    	35.3034	30.5488	40.5586	4.99867
+7  	24    	40.4937	37.9605	40.5586	0.40563
+8  	26    	42.1546	40.5586	64     	5.34063
+9  	24    	46.0948	40.5586	64     	9.2973 
+10 	30    	52.587 	40.5586	64     	10.8918
+11 	26    	63.0399	40.5586	64     	4.29099
+12 	22    	64     	64     	64     	0      
+13 	24    	64     	64     	64     	0      
+14 	24    	64     	64     	64     	0      
+15 	23    	64     	64     	64     	0      
+16 	27    	64     	64     	64     	0      
+17 	24    	64     	64     	64     	0      
+18 	27    	64     	64     	64     	0      
+19 	27    	64     	64     	64     	0      
+20 	26    	64     	64     	64     	0      
+21 	23    	64     	64     	64     	0      
+22 	25    	64     	64     	64     	0      
+23 	26    	64     	64     	64     	0      
+24 	23    	64     	64     	64     	0      
+25 	25    	64     	64     	64     	0      
+26 	25    	64     	64     	64     	0      
+27 	26    	64     	64     	64     	0      
+28 	20    	64     	64     	64     	0      
+29 	25    	64     	64     	64     	0      
+30 	25    	65.4172	64     	78.1716	4.25148
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.88893890381e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.50746917725e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.31673431396e-05
+looped
+[81.02337804]
+biased and relued: [1.02446433e-02 4.23830522e+00 1.34448991e+01]
+biased and relued: [ 0.04113914  3.32588495 21.49861016]
+biased and relued: [ 0.11666511  3.70692415 65.0176893 ]
+biased and relued: [  0.15298539   0.76481277 100.43614876]
+[81.02337804]
+[0. 1.]
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.48362731934e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.29289245605e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.10215759277e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.00679016113e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.91142272949e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.6968460083e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 5.19752502441e-05
+looped
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+first version took: 4.6968460083e-05
+looped
+biased and relued: [0.03795394 0.08561165 0.05416776 0.14570914 0.12911313]
+biased and relued: [0.04236494 0.04502183 0.02476335 0.0442015  0.04394799]
+biased and relued: [0.03774694 0.0255887  0.01149348 0.0023088  0.04934328]
+biased and relued: [0.01818778 0.01617312 0.02269167 0.0458446  0.00969806]
+biased and relued: [0.00921762 0.0029546  0.03899174 0.04966235 0.01984975]
+biased and relued: [0.0137168  0.00502787 0.02615321 0.02986707 0.02914631]
+biased and relued: [0.02061994 0.03556346 0.04920878 0.0116047  0.03719383]
+biased and relued: [0.03028376 0.05366699 0.04536353 0.03027772 0.03256423]
+biased and relued: [0.03647655 0.00848452 0.04654825 0.00356207 0.04241477]
+[0.44443881 0.31816933 0.47933418 0.24677469]
+[array([0.03795394, 0.08561165, 0.05416776, 0.14570914, 0.12911314],
+      dtype=float32), array([0.04236494, 0.04502182, 0.02476335, 0.0442015 , 0.04394799],
+      dtype=float32), array([0.03774694, 0.0255887 , 0.01149348, 0.0023088 , 0.04934328],
+      dtype=float32), array([0.01818778, 0.01617312, 0.02269167, 0.0458446 , 0.00969806],
+      dtype=float32), array([0.00921762, 0.0029546 , 0.03899173, 0.04966236, 0.01984975],
+      dtype=float32), array([0.0137168 , 0.00502787, 0.02615321, 0.02986707, 0.02914631],
+      dtype=float32), array([0.02061994, 0.03556345, 0.04920878, 0.0116047 , 0.03719383],
+      dtype=float32), array([0.03028376, 0.05366699, 0.04536353, 0.03027773, 0.03256423],
+      dtype=float32), array([0.03647655, 0.00848452, 0.04654825, 0.00356207, 0.04241477],
+      dtype=float32)]
+[-0.0000000e+00 -0.0000000e+00 -1.4156237e-12 -6.9316107e-12
+ -9.5901499e-13 -2.8312474e-12 -1.4385225e-12 -4.2324091e-12]
+[-2.7088425e-14 -2.7088425e-14 -1.7128172e-12 -1.0865989e-11
+ -6.8750726e-12 -5.8723118e-12 -2.9151772e-12 -2.9151772e-12
+ -2.5831438e-12 -1.6991150e-11]
+[-1.0382541e-12 -1.0382541e-12 -2.3105500e-11 -2.3105500e-11
+ -1.2708713e-11 -6.4303937e-11 -1.1477974e-10 -2.0384207e-10
+ -2.2554399e-11 -5.1829430e-10]
+[-2.7416283e-11 -2.7416283e-11 -2.6720468e-10 -2.6720468e-10
+ -1.2001823e-10 -1.1529537e-09 -2.3160440e-10 -2.0778806e-10
+ -5.1525689e-10 -1.4983543e-08]
+[-4.3397885e-10 -4.3397885e-10 -5.8914750e-08 -5.8914750e-08
+ -8.2660257e-08 -3.6201484e-08 -7.3138857e-08 -1.2007702e-07
+ -3.5327698e-08 -5.3627730e-08]
+[-5.3785256e-09 -5.3785256e-09 -2.2736100e-07 -2.2736100e-07
+ -3.0004742e-06 -1.8866532e-06 -2.4029616e-06 -7.5174893e-07
+ -1.5274686e-06 -2.3004141e-06]
+[-2.8967582e-07 -2.8967582e-07 -6.4970450e-06 -6.4970450e-06
+ -3.3795313e-05 -5.9282702e-06 -6.7701062e-06 -8.7335820e-06
+ -3.7663005e-05 -5.8445530e-05]
+[-1.10438095e-05 -1.10438095e-05 -8.56380444e-04 -8.56380444e-04
+ -1.18496479e-03 -9.69226705e-04 -2.28568650e-04 -6.26706678e-05
+ -8.95640405e-04 -9.22193052e-04]
+[-0.00028847 -0.00028847 -0.02284032 -0.02284032 -0.01930642 -0.0077873
+ -0.00519761 -0.0135552  -0.01385912 -0.00638235]
+[-0.0000000e+00 -0.0000000e+00 -1.4156237e-12 -6.9316107e-12
+ -9.5901499e-13 -2.8312474e-12 -1.4385225e-12 -4.2324091e-12]
+[-2.7088425e-14 -2.7088425e-14 -1.7128172e-12 -1.0865989e-11
+ -6.8750726e-12 -5.8723118e-12 -2.9151772e-12 -2.9151772e-12
+ -2.5831438e-12 -1.6991150e-11]
+[-1.0382541e-12 -1.0382541e-12 -2.3105500e-11 -2.3105500e-11
+ -1.2708713e-11 -6.4303937e-11 -1.1477974e-10 -2.0384207e-10
+ -2.2554399e-11 -5.1829430e-10]
+[-2.7416283e-11 -2.7416283e-11 -2.6720468e-10 -2.6720468e-10
+ -1.2001823e-10 -1.1529537e-09 -2.3160440e-10 -2.0778806e-10
+ -5.1525689e-10 -1.4983543e-08]
+[-4.3397885e-10 -4.3397885e-10 -5.8914750e-08 -5.8914750e-08
+ -8.2660257e-08 -3.6201484e-08 -7.3138857e-08 -1.2007702e-07
+ -3.5327698e-08 -5.3627730e-08]
+[-5.3785256e-09 -5.3785256e-09 -2.2736100e-07 -2.2736100e-07
+ -3.0004742e-06 -1.8866532e-06 -2.4029616e-06 -7.5174893e-07
+ -1.5274686e-06 -2.3004141e-06]
+[-2.8967582e-07 -2.8967582e-07 -6.4970450e-06 -6.4970450e-06
+ -3.3795313e-05 -5.9282702e-06 -6.7701062e-06 -8.7335820e-06
+ -3.7663005e-05 -5.8445530e-05]
+[-1.10438095e-05 -1.10438095e-05 -8.56380444e-04 -8.56380444e-04
+ -1.18496479e-03 -9.69226705e-04 -2.28568650e-04 -6.26706678e-05
+ -8.95640405e-04 -9.22193052e-04]
+[-0.00028847 -0.00028847 -0.02284032 -0.02284032 -0.01930642 -0.0077873
+ -0.00519761 -0.0135552  -0.01385912 -0.00638235]
+memory stats: svmem(total=15771402240, available=13337718784, percent=15.4, used=2085044224, free=8952004608, active=4371435520, inactive=2037886976, buffers=180580352, cached=4553773056, shared=8450048, slab=274505728)
+evaluating
+running initial dictSingleGenConsolidate
+starting a dictSingleGenConsolidate
+finished a dictSingleGenConsolidate
+starting to loop
+branchmultiplier: 60
+weights length: 47040
+final layer output length: 8656
+average number of connections per neuron by layer: [5.434380776340111]
+spacial dimension: 9
+branching by dimension: [10, 2, 4, 8, 9, 7, 6, 10, 4]
+cartesian dimensions: []
+beginning partial classification
+partial classification took:  101.439491987
+starting to build keras linear classifier
+
+   32/10000 [..............................] - ETA: 0s
+ 1440/10000 [===>..........................] - ETA: 0s
+ 2848/10000 [=======>......................] - ETA: 0s
+ 4256/10000 [===========>..................] - ETA: 0s
+ 5664/10000 [===============>..............] - ETA: 0s
+ 7072/10000 [====================>.........] - ETA: 0s
+ 8480/10000 [========================>.....] - ETA: 0s
+ 9888/10000 [============================>.] - ETA: 0s
+10000/10000 [==============================] - 0s 36us/step
+keras building and training took: 67.4633879662
+linear model training accuracy,testing accuracy: 0.9157  ,  0.9198
+starting to train actual network
+starting epoch...
