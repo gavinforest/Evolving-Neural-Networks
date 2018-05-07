@@ -1,6 +1,6 @@
 #redirect output so I can run this headless (jupyter notebook keeps crashing)
 import sys
-myLog = open("randomWeightsEvolutionLogCartesian16", "w+", 0)
+myLog = open("randomWeightsEvolutionLogCartesian17", "w+", 0)
 sys.stdout = myLog
 
 print "testing stdout"
@@ -1256,7 +1256,7 @@ sys.setrecursionlimit(1500)
 
 sampleHistoryObject = None
 saveCount = 0
-iteration = "cartesian16"
+iteration = "cartesian17"
 def mnistEvaluateRandomWeights(individual):
     weights = []
     biases = []
@@ -1372,7 +1372,7 @@ def mnistEvaluateRandomWeights(individual):
 #     print "SVM Accuracy " + str(accuracy)
     
     #comma is because deap expects a tuple for some reason, this isn't a bug
-    return accuracy,
+    return avgpercenttestAccuracy,
     
 
 evolve(mnistEvaluateRandomWeights)
