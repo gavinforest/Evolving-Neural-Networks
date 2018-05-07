@@ -1337,7 +1337,7 @@ def mnistEvaluateRandomWeights(individual):
     print "linear model training accuracy,testing accuracy: " + str(trainingHistory.history['categorical_accuracy'][-1]) + "  ,  " + str(accuracy)
     print "starting to train actual network"
     testStart = time.time()
-    avgpercenttestAccuracy, avgpercenttestAccuracylist = tnet.descend(0.001, 5, trainingimgs,traininglabels, testingimgs, testinglabels, True)
+    avgpercenttestAccuracy, avgpercenttestAccuracylist = tnet.descend(0.01, 5, trainingimgs,traininglabels, testingimgs, testinglabels, True)
     print "actual network training took: " + str(time.time() - testStart)
     print "actual network accuracy after 5 epochs : " + str(avgpercenttestAccuracy)
     
